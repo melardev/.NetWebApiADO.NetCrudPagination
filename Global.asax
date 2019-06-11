@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="WebApiADO.NetCrudPagination.WebApiApplication" Language="C#" %>
